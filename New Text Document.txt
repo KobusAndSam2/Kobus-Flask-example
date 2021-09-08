@@ -1,0 +1,2 @@
+https://redis.com/blog/redis-on-windows-10/
+https://stackoverflow.com/questions/59632556/importing-celery-in-flask-blueprints
